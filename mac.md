@@ -24,5 +24,6 @@ Now that you are all set up, it's time to learn a little more about the tools of
 
 7. What is a merge conflict?
     A merge conflict is when two or more developers try to edit the same file or content.
+    
 8. How do you resolve a merge conflict?
     You can resolve a merge conflict by using different branches, and then using `git merge` to combine the separate branches with the main source.
